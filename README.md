@@ -3,4 +3,5 @@
 通过指定popupwindow的展示动画，来达到所想要的展现效果
 鸿洋大神的原文地址
 http://blog.csdn.net/lmj623565791/article/details/22961279
-![image](https://github.com/DarkReal/slideDelListView/app/src/main/res/slideDel.jpg)
+![image](https://github.com/DarkReal/slideDelListView/app/src/main/res/slideDel.gif )
+
