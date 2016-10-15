@@ -16,7 +16,7 @@ import java.util.Formatter;
 import java.util.Locale;
 
 /**
- * Log工具，类似android.util.Log。 tag自动产生，格式:
+ * 自定义的Log工具，类似android.util.Log。 tag自动产生，格式:
  * customTagPrefix:className.methodName(Line:lineNumber),
  * customTagPrefix为空时只输出：className.methodName(Line:lineNumber)。
  */
