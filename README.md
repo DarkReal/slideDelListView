@@ -4,4 +4,3 @@
 鸿洋大神的原文地址
 http://blog.csdn.net/lmj623565791/article/details/22961279
 ![image](https://github.com/DarkReal/slideDelListView/app/src/main/res/slideDel.gif )
-
